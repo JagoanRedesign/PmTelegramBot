@@ -1,7 +1,7 @@
 ## Private Message Bot
 >Bot untuk meneruskan pesan dari user ke owner (Seperti Livegram)
 
->Note: Kalo mau fork/clone jangan lupa kasih star ya kak, makasi.
+>Note: Kalo mau fork/clone jangan lupa kasih star ya kak, makasi. Jangan lupa kalo install di lokal harus punya npm
 
 Untuk mengganti pesan, silahkan pergi ke index.js dan cari tulisan 'Silahkan blabla'
 
@@ -11,6 +11,7 @@ Untuk mengganti pesan, silahkan pergi ke index.js dan cari tulisan 'Silahkan bla
 - Lokal / VPS
     - `git clone https://github.com/DoellBarr/PmTelegramBot`
     - `cd PmTelegramBot`
+    - `npm i`
     - Ganti nama .env.example ke .env atau `cp .env.example .env`
     - Lalu isi `OWNER_ID` dan `BOT_TOKEN` atau `nano .env`
     - Setelah itu ketik `npm run start` atau `node index.js`
