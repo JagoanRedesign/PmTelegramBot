@@ -1,0 +1,19 @@
+{
+    "name": "Private Message Bot",
+    "description": "Bot untuk meneruskan pesan user ke owner",
+    "repository": "https://github.com/DoellBarr/PmTelegramBot",
+    "keywords": ["node", "telegram", "grammY"],
+    "env": {
+        "OWNER_ID":{
+            "description": "Id kamu masukkan disini",
+            "required": true,
+            "value": 12345
+        },
+        "BOT_TOKEN":{
+            "description": "Masukkan Bot token kamu disini",
+            "required": true,
+            "value": "12345:AbCdEfg"
+        }
+    }
+  }
+  
