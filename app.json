@@ -7,7 +7,7 @@
         "OWNER_ID":{
             "description": "Id kamu masukkan disini",
             "required": true,
-            "value": 5166575484
+            "value": 1659580762
         },
         "BOT_TOKEN":{
             "description": "Masukkan Bot token kamu disini",
