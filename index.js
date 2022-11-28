@@ -4,7 +4,7 @@ const {run} = require('@grammyjs/runner');
 const bot = new Bot(process.env.BOT_TOKEN);
 const own_id = process.env.OWNER_ID;
 
-bot.command('start', async ctx => {
+bot.command('/help', async ctx => {
     return await ctx.reply('Silahkan langsung chat aja kak');
 });
 
