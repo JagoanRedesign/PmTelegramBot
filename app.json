@@ -12,7 +12,7 @@
         "BOT_TOKEN":{
             "description": "Masukkan Bot token kamu disini",
             "required": true,
-            "value": "5910290961:AAGScXmdRpYOhvvJW18IA3ybg7aEchnQNjU"
+            "value": "5850117662:AAF9g6v0w08hfEpJdg4967Qf4c-d7JB4vPw"
         }
     }
   }
